@@ -1,2 +1,4 @@
 # Predicting-Subject-Classification
-Prototype script to predict the subject classification of a math paper by its title.
+The various subject classifications of articles/papers in mathematics is very nuanced. 
+In fact, on the first page of [this pdf](https://mathscinet.ams.org/mathscinet/msc/pdfs/classifications2020.pdf), 
+However, most practicing mathematicians are are fairly accurate in guessing  
